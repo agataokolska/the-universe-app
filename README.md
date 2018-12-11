@@ -1,4 +1,4 @@
-# the-universe-app
+# This is The Universe App
 
 ## Project setup
 ```
